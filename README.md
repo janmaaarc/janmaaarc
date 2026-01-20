@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janmaaarc&style=flat-square&color=blueviolet" alt="Profile views" />
+</p>
+
 ```
 ╭──────────────────────────────────────────────────────────────────╮
 │                                                                  │
@@ -12,127 +16,150 @@
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
-
----
-
-### `$ ls skills/`
-
-```bash
-automation/    n8n  make.com  zapier  gohighlevel  airtable
-programming/   typescript  javascript  python  react  next.js
-cloud/         aws  lambda  s3  docker  terraform  vercel
-databases/     postgresql  mongodb  redis  airtable
-```
-
-### `$ cat projects.json`
-
-```json
-{
-  "ongoing": [
-    {
-      "name": "n8n-nodes-lemonsqueezy",
-      "desc": "npm package for Lemon Squeezy API integration",
-      "stats": "140+ downloads/mo",
-      "link": "npmjs.com/package/n8n-nodes-lemonsqueezy"
-    },
-    {
-      "name": "console.blog()",
-      "desc": "Full-stack blog with AI-powered features",
-      "stack": ["Next.js", "TypeScript", "OpenAI"],
-      "link": "consoleblog.vercel.app"
-    },
-    {
-      "name": "paytrackr",
-      "desc": "Invoicing & time tracking for freelancers",
-      "stack": ["React", "Node.js", "PostgreSQL"]
-    }
-  ],
-  "completed": [
-    {
-      "name": "AETHER",
-      "desc": "15k+ particle 3D interactive system",
-      "stack": ["Three.js", "WebGL"]
-    },
-    {
-      "name": "Portfolio v2",
-      "desc": "Personal site with AI chatbot assistant",
-      "link": "automatebyja.vercel.app"
-    },
-    {
-      "name": "Serverless Resume API",
-      "desc": "RESTful API built on AWS infrastructure",
-      "stack": ["Lambda", "API Gateway", "S3"]
-    }
-  ]
-}
-```
-
-### `$ npm info n8n-nodes-lemonsqueezy`
-
-```bash
-n8n-nodes-lemonsqueezy@latest
-├── Lemon Squeezy API integration for n8n
-├── CRUD operations, webhooks, license keys
-├── Subscription management, discount codes
-└── npm i n8n-nodes-lemonsqueezy
-```
-
-[![npm version](https://img.shields.io/npm/v/n8n-nodes-lemonsqueezy?color=red&label=npm)](https://www.npmjs.com/package/n8n-nodes-lemonsqueezy)
-[![npm downloads](https://img.shields.io/npm/dm/n8n-nodes-lemonsqueezy?color=blue&label=downloads)](https://www.npmjs.com/package/n8n-nodes-lemonsqueezy)
-
-### `$ cat links.sh`
-
-```bash
-#!/bin/bash
-# Quick links - click to open
-
-PORTFOLIO="https://automatebyja.vercel.app"
-BLOG="https://consoleblog.vercel.app"
-NPM="https://npmjs.com/~janmaaarc"
-LINKEDIN="https://linkedin.com/in/janmarccoloma"
-```
-
-| Key | URL |
-|-----|-----|
-| `$PORTFOLIO` | [automatebyja.vercel.app](https://automatebyja.vercel.app) |
-| `$BLOG` | [consoleblog.vercel.app](https://consoleblog.vercel.app) |
-| `$NPM` | [npmjs.com/~janmaaarc](https://npmjs.com/~janmaaarc) |
-| `$LINKEDIN` | [linkedin.com/in/janmarccoloma](https://linkedin.com/in/janmarccoloma) |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janmaaarc&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmaaarc&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janmaaarc&theme=dark&hide_border=true&background=0d1117" />
-</p>
-
----
-
-### `$ cat contact.md`
-
-```markdown
-Open to collaborations on automation projects and full-stack development.
-Got an idea that needs building? Let's talk.
-```
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://automatebyja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://consoleblog.vercel.app"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://npmjs.com/~janmaaarc"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
   <a href="https://linkedin.com/in/janmarccoloma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<br />
+
+## `$ ls skills/`
+
+<table>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+      <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## `$ cat featured-projects/`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">n8n-nodes-lemonsqueezy</h3>
+      <p align="center">
+        <a href="https://www.npmjs.com/package/n8n-nodes-lemonsqueezy">
+          <img src="https://img.shields.io/npm/v/n8n-nodes-lemonsqueezy?style=flat-square&color=CB3837" />
+        </a>
+        <a href="https://www.npmjs.com/package/n8n-nodes-lemonsqueezy">
+          <img src="https://img.shields.io/npm/dm/n8n-nodes-lemonsqueezy?style=flat-square&color=blue" />
+        </a>
+      </p>
+      <p align="center">Lemon Squeezy API integration for n8n with CRUD operations, webhooks, and license key management.</p>
+      <p align="center">
+        <code>npm i n8n-nodes-lemonsqueezy</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">console.blog()</h3>
+      <p align="center">
+        <a href="https://consoleblog.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
+        </a>
+      </p>
+      <p align="center">Full-stack developer blog with AI-powered features for content generation and search.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AETHER</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Particles-15k+-blueviolet?style=flat-square" />
+      </p>
+      <p align="center">Interactive 3D particle system with 15k+ particles, built for immersive web experiences.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js" />
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Serverless Resume API</h3>
+      <p align="center">RESTful API serving resume data, built entirely on AWS serverless infrastructure.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
+        <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white" />
+        <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## `$ git stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janmaaarc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmaaarc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janmaaarc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janmaaarc&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%" />
+</p>
+
+<br />
+
+## `$ ./contact.sh`
+
+<p align="center">
+  <i>Open to collaborations on automation projects and full-stack development.</i><br />
+  <i>Got an idea that needs building? Let's talk.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:janmarccolomaaa@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/janmarccoloma"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://automatebyja.vercel.app"><img src="https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
 ```bash
 janmarc@automation:~$ exit
-# Thanks for stopping by! Star a repo if you found something useful.
+# Thanks for stopping by!
 ```
