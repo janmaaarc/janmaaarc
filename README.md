@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janmaaarc&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
-
 ```
 ╭──────────────────────────────────────────────────────────────────╮
 │                                                                  │
@@ -33,6 +29,8 @@
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
       <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
       <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+      <img src="https://img.shields.io/badge/GoHighLevel-00C853?style=flat-square" />
+      <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
       <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
     </td>
   </tr>
@@ -43,6 +41,8 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -51,16 +51,19 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Cloud</b></td>
+    <td><b>Cloud & DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -81,7 +84,7 @@
           <img src="https://img.shields.io/npm/dm/n8n-nodes-lemonsqueezy?style=flat-square&color=blue" />
         </a>
       </p>
-      <p align="center">Lemon Squeezy API integration for n8n with CRUD operations, webhooks, and license key management.</p>
+      <p align="center">Lemon Squeezy API integration for n8n. CRUD operations, webhooks, license keys, subscriptions, and discount codes.</p>
       <p align="center">
         <code>npm i n8n-nodes-lemonsqueezy</code>
       </p>
@@ -93,7 +96,7 @@
           <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
         </a>
       </p>
-      <p align="center">Full-stack developer blog with AI-powered features for content generation and search.</p>
+      <p align="center">Full-stack developer blog with AI writing assistant for content generation and intelligent search.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -103,23 +106,27 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">PayTrackr</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
+      </p>
+      <p align="center">Invoicing and time tracking app for freelancers with automated payment reminders and reporting.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">AETHER</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Particles-15k+-blueviolet?style=flat-square" />
       </p>
-      <p align="center">Interactive 3D particle system with 15k+ particles, built for immersive web experiences.</p>
+      <p align="center">Interactive 3D particle system with hand gesture tracking via MediaPipe for immersive web experiences.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js" />
         <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Serverless Resume API</h3>
-      <p align="center">RESTful API serving resume data, built entirely on AWS serverless infrastructure.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
-        <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white" />
-        <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+        <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square" />
       </p>
     </td>
   </tr>
