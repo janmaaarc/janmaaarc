@@ -20,10 +20,6 @@
   <a href="https://linkedin.com/in/janmarccoloma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janmaaarc&style=flat-square&color=58a6ff&label=Profile+Views" />
-</p>
-
 <br />
 
 ## `$ ls skills/`
@@ -146,25 +142,6 @@
         <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square" />
       </p>
     </td>
-  </tr>
-</table>
-
-<br />
-
-## `$ ps aux | grep current`
-
-<table>
-  <tr>
-    <td>🔨 <b>Building</b></td>
-    <td><b>PayTrackr</b> - Invoicing & time tracking for freelancers</td>
-  </tr>
-  <tr>
-    <td>📚 <b>Learning</b></td>
-    <td>Kubernetes, EKS, Advanced Terraform</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Goal</b></td>
-    <td>Ship 3 production-ready automation templates this month</td>
   </tr>
 </table>
 
