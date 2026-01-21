@@ -106,15 +106,17 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">PayTrackr</h3>
+      <h3 align="center">n8n Ops</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
+        <a href="https://n8n-ops.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
+        </a>
       </p>
-      <p align="center">Invoicing and time tracking app for freelancers with automated payment reminders and reporting.</p>
+      <p align="center">Monitoring dashboard for n8n workflows with real-time execution tracking, error logs, and performance metrics.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
