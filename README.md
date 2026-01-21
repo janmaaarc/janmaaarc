@@ -1,11 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Jan+Marc+Coloma;Automation+Specialist;Building+workflows+that+cut+manual+work+by+70%25" alt="Typing SVG" />
+</p>
+
 ```
 ╭──────────────────────────────────────────────────────────────────╮
 │                                                                  │
 │   janmarc@automation:~$ whoami                                   │
 │                                                                  │
-│   Jan Marc Coloma                                                │
 │   → Automation Specialist & Full-Stack Developer                 │
-│   → Building workflows that cut manual work by 70%               │
 │   → Turning repetitive tasks into one-click solutions            │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
@@ -16,6 +18,10 @@
   <a href="https://consoleblog.vercel.app"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://npmjs.com/~janmaaarc"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
   <a href="https://linkedin.com/in/janmarccoloma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janmaaarc&style=flat-square&color=58a6ff&label=Profile+Views" />
 </p>
 
 <br />
@@ -111,6 +117,9 @@
         <a href="https://n8n-ops.vercel.app">
           <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
         </a>
+        <a href="https://github.com/janmaaarc/n8n-ops">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
       </p>
       <p align="center">Monitoring dashboard for n8n workflows with real-time execution tracking, error logs, and performance metrics.</p>
       <p align="center">
@@ -122,6 +131,12 @@
     <td width="50%" valign="top">
       <h3 align="center">AETHER</h3>
       <p align="center">
+        <a href="https://aether-3d.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
+        </a>
+        <a href="https://github.com/janmaaarc/aether-particles">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
         <img src="https://img.shields.io/badge/Particles-15k+-blueviolet?style=flat-square" />
       </p>
       <p align="center">Interactive 3D particle system with hand gesture tracking via MediaPipe for immersive web experiences.</p>
@@ -131,6 +146,25 @@
         <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square" />
       </p>
     </td>
+  </tr>
+</table>
+
+<br />
+
+## `$ ps aux | grep current`
+
+<table>
+  <tr>
+    <td>🔨 <b>Building</b></td>
+    <td><b>PayTrackr</b> - Invoicing & time tracking for freelancers</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Learning</b></td>
+    <td>Kubernetes, EKS, Advanced Terraform</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Goal</b></td>
+    <td>Ship 3 production-ready automation templates this month</td>
   </tr>
 </table>
 
@@ -163,7 +197,6 @@
 <p align="center">
   <a href="mailto:janmarccolomaaa@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/janmarccoloma"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://automatebyja.vercel.app"><img src="https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
