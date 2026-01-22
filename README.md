@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Jan+Marc+Coloma;Automation+Specialist;Cutting+manual+work+by+70+percent" alt="Typing SVG" />
+</p>
 
 ```
 ╭──────────────────────────────────────────────────────────────────╮
@@ -19,7 +20,11 @@
   <a href="https://linkedin.com/in/janmarccoloma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_Open_to_Work-00C853?style=for-the-badge" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `$ ls skills/`
 
@@ -69,7 +74,7 @@
   </tr>
 </table>
 
-<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `$ cat featured-projects/`
 
@@ -84,6 +89,9 @@
         <a href="https://www.npmjs.com/package/n8n-nodes-lemonsqueezy">
           <img src="https://img.shields.io/npm/dm/n8n-nodes-lemonsqueezy?style=flat-square&color=blue" />
         </a>
+        <a href="https://github.com/janmaaarc/n8n-nodes-lemonsqueezy">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
       </p>
       <p align="center">Lemon Squeezy API integration for n8n. CRUD operations, webhooks, license keys, subscriptions, and discount codes.</p>
       <p align="center">
@@ -95,6 +103,9 @@
       <p align="center">
         <a href="https://consoleblog.vercel.app">
           <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
+        </a>
+        <a href="https://github.com/janmaaarc/console-blog">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">Full-stack developer blog with AI writing assistant for content generation and intelligent search.</p>
@@ -144,7 +155,7 @@
   </tr>
 </table>
 
-<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `$ git stats`
 
@@ -157,17 +168,13 @@
   <img src="https://streak-stats.demolab.com/?user=janmaaarc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janmaaarc&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%" />
-</p>
-
-<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `$ ./contact.sh`
 
 <p align="center">
-  <i>Open to collaborations on automation projects and full-stack development.</i><br />
-  <i>Got an idea that needs building? Let's talk.</i>
+  <b>🚀 Looking for an Automation Specialist?</b><br />
+  <i>Let's automate your workflows and save you hours every week.</i>
 </p>
 
 <p align="center">
@@ -175,9 +182,4 @@
   <a href="https://linkedin.com/in/janmarccoloma"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-```bash
-janmarc@automation:~$ exit
-# Thanks for stopping by!
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer" width="100%"/>
