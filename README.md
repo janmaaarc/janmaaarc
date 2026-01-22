@@ -104,9 +104,6 @@
         <a href="https://consoleblog.vercel.app">
           <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
         </a>
-        <a href="https://github.com/janmaaarc/console-blog">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        </a>
       </p>
       <p align="center">Full-stack developer blog with AI writing assistant for content generation and intelligent search.</p>
       <p align="center">
