@@ -3,14 +3,14 @@
 </p>
 
 ```
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   janmarc@automation:~$ whoami                                   │
-│                                                                  │
-│   → Automation Specialist & Full-Stack Developer                 │
-│   → Turning repetitive tasks into one-click solutions            │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+                ╭──────────────────────────────────────────────────────────────────╮
+                │                                                                  │
+                │   janmarc@automation:~$ whoami                                   │
+                │                                                                  │
+                │   → Automation Specialist & Full-Stack Developer                 │
+                │   → Turning repetitive tasks into one-click solutions            │
+                │                                                                  │
+                ╰──────────────────────────────────────────────────────────────────╯
 ```
 
 <p align="center">
