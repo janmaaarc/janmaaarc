@@ -147,21 +147,21 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">n8n-nodes-docusign</h3>
+      <h3 align="center">n8n-docusign-node</h3>
       <p align="center">
-        <a href="https://www.npmjs.com/package/n8n-nodes-docusign">
-          <img src="https://img.shields.io/npm/v/n8n-nodes-docusign?style=flat-square&color=CB3837" />
+        <a href="https://www.npmjs.com/package/n8n-docusign-node">
+          <img src="https://img.shields.io/npm/v/n8n-docusign-node?style=flat-square&color=CB3837" />
         </a>
-        <a href="https://www.npmjs.com/package/n8n-nodes-docusign">
-          <img src="https://img.shields.io/npm/dt/n8n-nodes-docusign?style=flat-square&color=blue" />
+        <a href="https://www.npmjs.com/package/n8n-docusign-node">
+          <img src="https://img.shields.io/npm/dt/n8n-docusign-node?style=flat-square&color=blue" />
         </a>
-        <a href="https://github.com/janmaaarc/n8n-nodes-docusign">
+        <a href="https://github.com/janmaaarc/n8n-docusign-node">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">DocuSign eSignature API integration for n8n. Create envelopes, manage documents, send for signing, and track status.</p>
       <p align="center">
-        <code>npm i n8n-nodes-docusign</code>
+        <code>npm i n8n-docusign-node</code>
       </p>
     </td>
   </tr>
