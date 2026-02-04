@@ -101,7 +101,7 @@
           <img src="https://img.shields.io/npm/v/n8n-nodes-lemonsqueezy?style=flat-square&color=CB3837" />
         </a>
         <a href="https://www.npmjs.com/package/n8n-nodes-lemonsqueezy">
-          <img src="https://img.shields.io/npm/dm/n8n-nodes-lemonsqueezy?style=flat-square&color=blue" />
+          <img src="https://img.shields.io/npm/dt/n8n-nodes-lemonsqueezy?style=flat-square&color=blue" />
         </a>
         <a href="https://github.com/janmaaarc/n8n-nodes-lemonsqueezy">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
