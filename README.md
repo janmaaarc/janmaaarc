@@ -64,6 +64,7 @@
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
   <tr>
@@ -84,6 +85,7 @@
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js" />
       <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
       <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+      <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -147,21 +149,21 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">n8n-docusign-node</h3>
+      <h3 align="center">n8n-nodes-docusign-esign</h3>
       <p align="center">
-        <a href="https://www.npmjs.com/package/n8n-docusign-node">
-          <img src="https://img.shields.io/npm/v/n8n-docusign-node?style=flat-square&color=CB3837" />
+        <a href="https://www.npmjs.com/package/n8n-nodes-docusign-esign">
+          <img src="https://img.shields.io/npm/v/n8n-nodes-docusign-esign?style=flat-square&color=CB3837" />
         </a>
-        <a href="https://www.npmjs.com/package/n8n-docusign-node">
-          <img src="https://img.shields.io/npm/dt/n8n-docusign-node?style=flat-square&color=blue" />
+        <a href="https://www.npmjs.com/package/n8n-nodes-docusign-esign">
+          <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fautomatebyja.vercel.app%2Fapi%2Fnpm-downloads%3Fpackage%3Dn8n-nodes-docusign-esign&style=flat-square" />
         </a>
-        <a href="https://github.com/janmaaarc/n8n-docusign-node">
+        <a href="https://github.com/janmaaarc/n8n-nodes-docusign-esign">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">DocuSign eSignature API integration for n8n. Create envelopes, manage documents, send for signing, and track status.</p>
       <p align="center">
-        <code>npm i n8n-docusign-node</code>
+        <code>npm i n8n-nodes-docusign-esign</code>
       </p>
     </td>
   </tr>
