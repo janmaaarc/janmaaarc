@@ -161,8 +161,7 @@
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><sub><i>*downloads include old version</i></sub></p>
-      <p align="center">DocuSign eSignature API integration for n8n. Create envelopes, manage documents, send for signing, and track status.</p>
+      <p align="center">DocuSign eSignature API integration for n8n. Create envelopes, manage documents, send for signing, and track status.<br><sub><i>*downloads include old version</i></sub></p>
       <p align="center">
         <code>npm i n8n-nodes-docusign-esign</code>
       </p>
