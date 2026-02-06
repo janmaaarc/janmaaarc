@@ -155,12 +155,13 @@
           <img src="https://img.shields.io/npm/v/n8n-nodes-docusign-esign?style=flat-square&color=CB3837" />
         </a>
         <a href="https://www.npmjs.com/package/n8n-nodes-docusign-esign">
-          <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fautomatebyja.vercel.app%2Fapi%2Fnpm-downloads%3Fpackage%3Dn8n-nodes-docusign-esign&style=flat-square&logo=npm&color=blue" />
+          <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fautomatebyja.vercel.app%2Fapi%2Fnpm-downloads%3Fpackage%3Dn8n-nodes-docusign-esign&style=flat-square&color=blue" />
         </a>
         <a href="https://github.com/janmaaarc/n8n-nodes-docusign-esign">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
+      <p align="center"><i>*downloads include old version</i></p>
       <p align="center">DocuSign eSignature API integration for n8n. Create envelopes, manage documents, send for signing, and track status.</p>
       <p align="center">
         <code>npm i n8n-nodes-docusign-esign</code>
