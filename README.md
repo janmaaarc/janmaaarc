@@ -7,7 +7,7 @@
 │                                                                  │
 │   janmarc@automation:~$ whoami                                   │
 │                                                                  │
-│   → AI Automation & Integration Developer                       │
+│   → AI Automation & Integration Developer                        │
 │   → Automation Specialist                                        │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
