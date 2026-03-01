@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Jan+Marc+Coloma;Automation+Specialist;Cutting+manual+work+by+70+percent" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Jan+Marc+Coloma;AI+Automation+%26+Integration+Developer;Automation+Specialist" alt="Typing SVG" />
 </p>
 
 ```
@@ -7,8 +7,8 @@
 │                                                                  │
 │   janmarc@automation:~$ whoami                                   │
 │                                                                  │
-│   → Automation Specialist & Software Engineer                    │
-│   → Turning repetitive tasks into one-click solutions            │
+│   → AI Automation & Integration Developer                       │
+│   → Automation Specialist                                        │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
@@ -126,28 +126,11 @@
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">n8n Ops</h3>
-      <p align="center">
-        <a href="https://n8n-ops.vercel.app">
-          <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
-        </a>
-        <a href="https://github.com/janmaaarc/n8n-ops">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Monitoring dashboard for n8n workflows with real-time execution tracking, error logs, and performance metrics.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">n8n-nodes-docusign-esign</h3>
       <p align="center">
@@ -161,11 +144,63 @@
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">DocuSign eSignature API integration for n8n. Create envelopes, manage documents, send for signing, and track status.</p>
+      <p align="center">DocuSign eSignature API integration for n8n. Envelope management, template support, multiple signers, and webhook triggers.</p>
       <p align="center">
         <code>npm i n8n-nodes-docusign-esign</code>
       </p>
       <p align="center"><sub><i>*downloads include old version</i></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">IP Atlas</h3>
+      <p align="center">
+        <a href="https://ip-atlas.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
+        </a>
+        <a href="https://github.com/janmaaarc/ip-atlas">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Full-stack IP geolocation app with batch lookup, IP comparison, interactive map, analytics dashboard, and shareable links.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Cincinnati Hotel Chatbot</h3>
+      <p align="center">
+        <a href="https://cincinnati-hotel-chatbot.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
+        </a>
+        <a href="https://github.com/janmaaarc/cincinnati-hotel-chatbot">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">AI-powered hotel concierge chatbot with admin dashboard, PDF knowledge base, and real-time stats.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Hostaway Reservation Export</h3>
+      <p align="center">
+        <a href="https://github.com/janmaaarc/hostaway-reservation-export">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">API integration that pulls reservations from Hostaway with OAuth2 auth, pagination, PII redaction, and 49 unit tests.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
+        <img src="https://img.shields.io/badge/OAuth2-000000?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
@@ -188,8 +223,8 @@
 ## `$ ./contact.sh`
 
 <p align="center">
-  <b>🚀 Looking for an Automation Specialist?</b><br />
-  <i>Let's automate your workflows and save you hours every week.</i>
+  <b>🚀 Looking for an Automation or Integration Developer?</b><br />
+  <i>Let's automate your workflows and connect your systems.</i>
 </p>
 
 <p align="center">
