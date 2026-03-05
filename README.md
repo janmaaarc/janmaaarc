@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Jan+Marc+Coloma;AI+Automation+%26+Integration+Developer;Automation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Jan+Marc+Coloma;Full-Stack+Developer;Automation+Specialist" alt="Typing SVG" />
 </p>
 
 ```
@@ -7,8 +7,8 @@
 │                                                                  │
 │   janmarc@automation:~$ whoami                                   │
 │                                                                  │
-│   → AI Automation & Integration Developer                        │
-│   → Automation Specialist                                        │
+│   → Full-Stack Developer @ ShipBee Fulfillment                  │
+│   → Automation Specialist & Integration Developer                │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
@@ -223,8 +223,8 @@
 ## `$ ./contact.sh`
 
 <p align="center">
-  <b>🚀 Looking for an Automation or Integration Developer?</b><br />
-  <i>Let's automate your workflows and connect your systems.</i>
+  <b>🚀 Full-Stack Developer & Automation Specialist</b><br />
+  <i>Building web apps, API integrations, and automation workflows.</i>
 </p>
 
 <p align="center">
