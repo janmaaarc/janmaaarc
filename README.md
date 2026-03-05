@@ -7,7 +7,7 @@
 │                                                                  │
 │   janmarc@automation:~$ whoami                                   │
 │                                                                  │
-│   → Full-Stack Developer @ ShipBee Fulfillment                  │
+│   → Full-Stack Developer @ ShipBee Fulfillment                   │
 │   → Automation Specialist & Integration Developer                │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
