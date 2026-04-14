@@ -14,7 +14,7 @@
 ```
 
 <p align="center">
-  <a href="https://automatebyja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://janmaaarc.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://consoleblog.vercel.app"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://npmjs.com/~janmaaarc"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
   <a href="https://linkedin.com/in/janmarccoloma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -169,7 +169,7 @@
           <img src="https://img.shields.io/npm/v/n8n-nodes-docusign-esign?style=flat-square&color=CB3837" />
         </a>
         <a href="https://www.npmjs.com/package/n8n-nodes-docusign-esign">
-          <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fautomatebyja.vercel.app%2Fapi%2Fnpm-downloads%3Fpackage%3Dn8n-nodes-docusign-esign&style=flat-square&color=blue" />
+          <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fjanmaaarc.dev%2Fapi%2Fnpm-downloads%3Fpackage%3Dn8n-nodes-docusign-esign&style=flat-square&color=blue" />
         </a>
         <a href="https://github.com/janmaaarc/n8n-nodes-docusign-esign">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
