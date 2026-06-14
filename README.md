@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Jan+Marc+Coloma;Full-Stack+Developer;Automation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Jan+Marc+Coloma;Full-Stack+AI+Engineer;%26+Automation+Specialist" alt="Typing SVG" />
 </p>
 
 ```
@@ -7,8 +7,8 @@
 │                                                                  │
 │   janmarc@automation:~$ whoami                                   │
 │                                                                  │
-│   → Full-Stack Developer & Automation Specialist                 │
-│   → AI Automation & Integration Developer                        │
+│   → Full-Stack AI Engineer & Automation Specialist               │
+│   → 22 production n8n systems · 5+ clients                      │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
@@ -125,21 +125,19 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">IP Atlas</h3>
+      <h3 align="center">Client Automation Systems</h3>
       <p align="center">
-        <a href="https://ip-atlas.vercel.app">
-          <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
-        </a>
-        <a href="https://github.com/janmaaarc/ip-atlas">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        <a href="https://janmaaarc.dev/workflows">
+          <img src="https://img.shields.io/badge/22_Live_Workflows-00C853?style=flat-square" />
         </a>
       </p>
-      <p align="center">Full-stack IP geolocation app with batch lookup, IP comparison, interactive map, analytics dashboard, and shareable links.</p>
+      <p align="center">22 production n8n automation systems built for clients — AI contract assistants, marketing copy generators, invoice processors, and recruitment pipelines. Cuts manual workload by 70%.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -236,8 +234,8 @@
 ## `$ ./contact.sh`
 
 <p align="center">
-  <b>🚀 Full-Stack Developer & Automation Specialist</b><br />
-  <i>Building web apps, API integrations, and automation workflows.</i>
+  <b>🚀 Full-Stack AI Engineer & Automation Specialist</b><br />
+  <i>Building web apps, AI integrations, and automation workflows that save teams real time.</i>
 </p>
 
 <p align="center">
