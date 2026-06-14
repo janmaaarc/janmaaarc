@@ -128,10 +128,10 @@
       <h3 align="center">Client Automation Systems</h3>
       <p align="center">
         <a href="https://janmaaarc.dev/workflows">
-          <img src="https://img.shields.io/badge/22_Live_Workflows-00C853?style=flat-square" />
+          <img src="https://img.shields.io/badge/22_Showcased_Workflows-00C853?style=flat-square" />
         </a>
       </p>
-      <p align="center">22 production n8n automation systems built for clients — AI contract assistants, marketing copy generators, invoice processors, and recruitment pipelines. Cuts manual workload by 70%.</p>
+      <p align="center">22 publicly showcased n8n workflows (NDA-free) from 40+ production systems built for clients — AI contract assistants, marketing copy generators, invoice processors, and recruitment pipelines. Cuts manual workload by 70%.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
