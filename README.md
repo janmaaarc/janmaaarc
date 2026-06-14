@@ -8,7 +8,7 @@
 │   janmarc@automation:~$ whoami                                   │
 │                                                                  │
 │   → Full-Stack AI Engineer & Automation Specialist               │
-│   → 22 production n8n systems · 5+ clients                       │
+│   → 40+ production n8n systems · 5+ clients                      │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
