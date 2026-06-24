@@ -182,21 +182,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Cincinnati Hotel Chatbot</h3>
+      <h3 align="center">ApplIQ</h3>
       <p align="center">
-        <a href="https://cincinnati-hotel-chatbot.vercel.app">
+        <a href="https://appliq-eight.vercel.app">
           <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
         </a>
-        <a href="https://github.com/janmaaarc/cincinnati-hotel-chatbot">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        </a>
       </p>
-      <p align="center">AI-powered hotel concierge chatbot with admin dashboard, PDF knowledge base, and real-time stats.</p>
+      <p align="center">Full-stack HR SaaS for talent acquisition and candidate tracking with a 6-stage recruitment kanban, Stripe billing, and GDPR/PDPA compliance.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
