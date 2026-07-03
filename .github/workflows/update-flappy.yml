@@ -20,3 +20,4 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'flappy.gif'
+          bird: 'ghost'
