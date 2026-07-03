@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Jan+Marc+Coloma;Full-Stack+AI+Engineer;%26+Automation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Jan+Marc+Coloma;Full-Stack+AI+Engineer;%26+Automation+Specialist" alt="Typing SVG" />
 </p>
 
 ```
@@ -218,12 +218,20 @@
 ## `$ git stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janmaaarc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmaaarc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janmaaarc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmaaarc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=janmaaarc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com/?user=janmaaarc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=39d353&currStreakLabel=39d353" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
+
+## `$ ./play.sh`
+
+<p align="center">
+  <img src="game.gif" alt="Space Shooter Game — my contribution graph as enemies" width="100%" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
@@ -240,4 +248,4 @@
   <a href="https://linkedin.com/in/janmaaarc"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=80&section=footer" width="100%"/>
