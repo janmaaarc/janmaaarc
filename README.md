@@ -32,6 +32,10 @@
   <img src="game.gif" alt="Space Shooter Game — my contribution graph as enemies" width="100%" />
 </p>
 
+<p align="center">
+  <img src="flappy.gif" alt="Flappy Graph — a bird flying through the empty days of my contribution graph" width="100%" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
 
 ## `$ ls skills/`
