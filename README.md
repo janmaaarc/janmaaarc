@@ -26,6 +26,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
 
+## `$ ./play.sh`
+
+<p align="center">
+  <img src="game.gif" alt="Space Shooter Game — my contribution graph as enemies" width="100%" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
+
 ## `$ ls skills/`
 
 <table>
@@ -110,21 +118,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">console.blog()</h3>
-      <p align="center">
-        <a href="https://consoleblog.vercel.app">
-          <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
-        </a>
-      </p>
-      <p align="center">Full-stack developer blog with AI writing assistant for content generation and intelligent search.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Client Automation Systems</h3>
       <p align="center">
         <a href="https://janmaaarc.dev/workflows">
@@ -138,6 +131,21 @@
         <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">console.blog()</h3>
+      <p align="center">
+        <a href="https://consoleblog.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
+        </a>
+      </p>
+      <p align="center">Full-stack developer blog with AI writing assistant for content generation and intelligent search.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -177,14 +185,13 @@
       <p align="center">
         <code>npm i n8n-nodes-docusign-esign</code>
       </p>
-      <p align="center"><sub><i>*downloads include old version</i></sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ApplIQ</h3>
+      <h3 align="center">Kairoh</h3>
       <p align="center">
-        <a href="https://appliq-eight.vercel.app">
+        <a href="https://kairoh-uno.vercel.app">
           <img src="https://img.shields.io/badge/Live-00C853?style=flat-square" />
         </a>
       </p>
@@ -212,27 +219,6 @@
     </td>
   </tr>
 </table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
-
-## `$ git stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janmaaarc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmaaarc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=janmaaarc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=39d353&currStreakLabel=39d353" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
-
-## `$ ./play.sh`
-
-<p align="center">
-  <img src="game.gif" alt="Space Shooter Game — my contribution graph as enemies" width="100%" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
 
