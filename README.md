@@ -4,7 +4,6 @@ janmaaarc@github:~$ whoami
   name    Jan Marc Coloma
   role    Full-Stack AI Engineer & Automation Specialist
   builds  web apps · AI agents · n8n automations
-  status  open to work
 
 janmaaarc@github:~$ ls links/
   portfolio   <a href="https://janmaaarc.dev">janmaaarc.dev</a>
