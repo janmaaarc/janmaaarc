@@ -15,13 +15,8 @@
 
 <p align="center">
   <a href="https://janmaaarc.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://consoleblog.vercel.app"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://npmjs.com/~janmaaarc"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
   <a href="https://linkedin.com/in/janmaaarc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work-00C853?style=for-the-badge" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
