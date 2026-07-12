@@ -1,9 +1,12 @@
 <pre>
 janmaaarc@github:~$ whoami
 
-  name    Jan Marc Coloma
-  role    Full-Stack AI Engineer & Automation Specialist
-  builds  AI agents · automation · web apps
+  Jan Marc Coloma — Full-Stack AI Engineer & Automation Specialist
+
+  I build AI agents, automation systems, and web apps.
+  Published n8n community nodes. Open to freelance & contract.
+
+janmaaarc@github:~$ _
 </pre>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
